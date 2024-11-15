@@ -19,11 +19,6 @@ API para gestionar autobuses y marcas en una empresa de transporte.
    cd busesapi
 ```
 
-2. Accede al proyecto:
-```bash
-   cd busesapi
-```
-
 ## Requisitos
 - Java 17
 - Spring Boot 3
